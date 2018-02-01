@@ -17,14 +17,6 @@ classes/copado__*
 triggers/copado__*
 pages/copado__*
 
-#profiles and permission sets are complex Files. If your Org's metadata and Git are in sync, 
-#you can track incremental changes on Profiles and Permission sets using Copado "commit files" functionality.
-#Otherwise ignore profiles and permission sets until you are ready for it. 
-#You can deploy profiles and permission sets using Copado Deployer steps: Full profiles and Full Permission sets.
-# Below is how to ignore them
-profiles/*
-permissionsets/*
-
 #Translations are complex since get updated indirectly across multiple files, they can make a deployment fail
 #if a field is translated in source and it doesn't exist on destination. 
 #If you are committing incrementally new fields and new Translations you can track them in Git, just be careful. 
