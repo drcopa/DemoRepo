@@ -17,6 +17,7 @@ classes/copado__*
 triggers/copado__*
 pages/copado__*
 
+
 #profiles and permission sets are complex Files. If your Org's metadata and Git are in sync, 
 #you can track incremental changes on Profiles and Permission sets using Copado "commit files" functionality.
 #Otherwise ignore profiles and permission sets until you are ready for it. 
