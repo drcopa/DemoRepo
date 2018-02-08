@@ -22,8 +22,8 @@ pages/copado__*
 #Otherwise ignore profiles and permission sets until you are ready for it. 
 #You can deploy profiles and permission sets using Copado Deployer steps: Full profiles and Full Permission sets.
 # Below is how to ignore them
-profiles/*
-permissionsets/*
+#profiles/*
+#permissionsets/*
 
 #Translations are complex since get updated indirectly across multiple files, they can make a deployment fail
 #if a field is translated in source and it doesn't exist on destination. 
