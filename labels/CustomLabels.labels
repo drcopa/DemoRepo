@@ -9,6 +9,20 @@
         <value>Hello</value>
     </labels>
     <labels>
+        <fullName>Spring_Label_2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Spring Label 2</shortDescription>
+        <value>Spring</value>
+    </labels>
+    <labels>
+        <fullName>Spring_Label_3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Spring Label 3</shortDescription>
+        <value>Spring 3</value>
+    </labels>
+    <labels>
         <fullName>Tester_1_Label_A</fullName>
         <categories>Copado</categories>
         <language>en_US</language>
