@@ -33,6 +33,15 @@
         <type>Default</type>
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayouts>
+        <fullName>Opportunity_Compact_Layout</fullName>
+        <fields>ServiceDate</fields>
+        <fields>Discount</fields>
+        <fields>LastModifiedById</fields>
+        <fields>Description</fields>
+        <fields>ListPrice</fields>
+        <label>Opportunity Compact Layout</label>
+    </compactLayouts>
     <enableFeeds>false</enableFeeds>
     <fields>
         <fullName>Description</fullName>
