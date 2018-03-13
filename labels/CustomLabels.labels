@@ -1,3 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata"/>
-
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Custom_Label_Tester_1</fullName>
+        <categories>Copado Test</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Tester 1: Label</shortDescription>
+        <value>Hello</value>
+    </labels>
+    <labels>
+        <fullName>Spring_Label_2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Spring Label 2</shortDescription>
+        <value>Spring</value>
+    </labels>
+    <labels>
+        <fullName>Spring_Label_3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Spring Label 3</shortDescription>
+        <value>Spring 3</value>
+    </labels>
+    <labels>
+        <fullName>Tester_1_Label_A</fullName>
+        <categories>Copado</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Tester 1: Label A</shortDescription>
+        <value>WHATU</value>
+    </labels>
+    <labels>
+        <fullName>Tester_1_Label_B</fullName>
+        <categories>Copado</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Tester 1: Label B</shortDescription>
+        <value>Yolo</value>
+    </labels>
+    <labels>
+        <fullName>Tester_2_Label_A</fullName>
+        <categories>Copado</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Tester 2: Label A</shortDescription>
+        <value>Hello</value>
+    </labels>
+    <labels>
+        <fullName>Tester_2_Label_B</fullName>
+        <categories>Copado</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Tester 2: Label B</shortDescription>
+        <value>YO</value>
+    </labels>
+    <labels>
+        <fullName>Tester_3_Label_A</fullName>
+        <categories>Copado</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Tester 3: Label A</shortDescription>
+        <value>YES</value>
+    </labels>
+    <labels>
+        <fullName>Tester_3_Label_B</fullName>
+        <categories>Copado</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Tester 3: Label B</shortDescription>
+        <value>Nada</value>
+    </labels>
+</CustomLabels>
