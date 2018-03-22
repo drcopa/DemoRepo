@@ -1,15 +1,3 @@
-<apex:page title="Copado Demo"> 
-  
-  <apex:outputText value="Copado DX" />
-
-  <script>
-    var j$ = jQuery.noConflict();
-    function openModal(){
-        j$('#backdrop').addClass('slds-backdrop--open');
-        j$('#modal').addClass('slds-fade-in-open');
-        return null;
-      }
-  </script>
-  
-    <apex:outputText value="Hello Copado" />
+<apex:page title="Copado Demo">    
+    <apex:outputText value="Hello Salesforce" />
 </apex:page>
