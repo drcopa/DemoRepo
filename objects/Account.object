@@ -353,26 +353,6 @@
         <label>My Accounts</label>
     </listViews>
     <listViews>
-        <fullName>NewLastWeek</fullName>
-        <filterScope>Everything</filterScope>
-        <filters>
-            <field>ACCOUNT.CREATED_DATE</field>
-            <operation>equals</operation>
-            <value>LAST_WEEK</value>
-        </filters>
-        <label>New Last Week</label>
-    </listViews>
-    <listViews>
-        <fullName>NewThisWeek</fullName>
-        <filterScope>Everything</filterScope>
-        <filters>
-            <field>ACCOUNT.CREATED_DATE</field>
-            <operation>equals</operation>
-            <value>THIS_WEEK</value>
-        </filters>
-        <label>New This Week</label>
-    </listViews>
-    <listViews>
         <fullName>PlatinumandGoldSLACustomers</fullName>
         <columns>ACCOUNT.NAME</columns>
         <columns>ACCOUNT.SITE</columns>
