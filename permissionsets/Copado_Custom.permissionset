@@ -19,8 +19,4 @@
         <object>Account</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
-    <pageAccesses>
-        <apexPage>HelloSalesforce</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
 </PermissionSet>
