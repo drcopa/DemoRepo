@@ -2687,9 +2687,6 @@
         <layout>WorkPerformanceCycle-Performance Cycle Layout - Winter %2716</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>copado__Apex_Test_Result__c-copado__Apex Test Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>copado__AuxiliaryObject__c-copado__AuxiliaryObject Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
