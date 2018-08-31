@@ -2636,9 +2636,6 @@
         <layout>Product2-Product Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>QuickText-Formato de Texto rápido</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Scorecard-Scorecard Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
