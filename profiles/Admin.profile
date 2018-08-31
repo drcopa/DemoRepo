@@ -5669,10 +5669,6 @@
         <layout>copado__Selenium_Test_Run__c-copado__Salesforce Selenium Test Run Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>copado__Selenium_Test_Run__c-copado__Salesforce Selenium Test Run Layout</layout>
-        <recordType>copado__Selenium_Test_Run__c.copado__Salesforce</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>copado__Selenium_Test_Suite__c-copado__Selenium Test Suite Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -7379,11 +7375,6 @@
     <recordTypeVisibilities>
         <default>true</default>
         <recordType>Metric.Progress</recordType>
-        <visible>true</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>true</default>
-        <recordType>copado__Selenium_Test_Run__c.copado__Salesforce</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
