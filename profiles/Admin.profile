@@ -2687,9 +2687,6 @@
         <layout>WorkPerformanceCycle-Performance Cycle Layout - Winter %2716</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>copado__Environmental_Variable__c-copado__Environment Variable Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>copado__Epic__c-copado__Epic Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
