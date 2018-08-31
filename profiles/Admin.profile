@@ -2687,9 +2687,6 @@
         <layout>WorkPerformanceCycle-Performance Cycle Layout - Winter %2716</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>copado__Step__c-copado__Step Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>copado__Team_Dependency__c-copado__Team Dependency Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
