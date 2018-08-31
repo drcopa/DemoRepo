@@ -3971,10 +3971,6 @@
         <visible>true</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
-        <tab>copado__Selenium_Locator__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>copado__Selenium_Settings__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
