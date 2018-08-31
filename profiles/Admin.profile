@@ -5516,10 +5516,6 @@
         <layout>copado__Compliance_Finding__c-copado__Compliance Finding Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>copado__Compliance_Finding__c-copado__Compliance Finding Layout</layout>
-        <recordType>copado__Compliance_Finding__c.copado__Other</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>copado__Compliance_Rule_Criteria__c-copado__Compliance Rule Criteria Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -7404,11 +7400,6 @@
         <default>true</default>
         <recordType>Metric.Progress</recordType>
         <visible>true</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
-        <recordType>copado__Compliance_Finding__c.copado__Other</recordType>
-        <visible>false</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
