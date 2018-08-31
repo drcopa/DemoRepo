@@ -2687,9 +2687,6 @@
         <layout>WorkPerformanceCycle-Performance Cycle Layout - Winter %2716</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>copado__Git_Org_Commit__c-copado__Git Org Commit Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>copado__Git_Repository__c-copado__Git Server Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
