@@ -2687,9 +2687,6 @@
         <layout>WorkPerformanceCycle-Performance Cycle Layout - Winter %2716</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>copado__Git_Backup__c-copado__Git Backup Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>copado__Git_Commit__c-copado__Git Commit Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
