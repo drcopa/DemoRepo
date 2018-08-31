@@ -2687,9 +2687,6 @@
         <layout>WorkPerformanceCycle-Performance Cycle Layout - Winter %2716</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>copado__Selenium_Test_Group__c-copado__Selenium Test Group Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>copado__Selenium_Test_Result__c-copado__Selenium Test Result Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
