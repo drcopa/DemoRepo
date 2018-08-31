@@ -2687,9 +2687,6 @@
         <layout>WorkPerformanceCycle-Performance Cycle Layout - Winter %2716</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>copado__Project__c-copado__Project Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>copado__Promoted_User_Story__c-copado__Promoted User Story Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
