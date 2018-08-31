@@ -5531,10 +5531,6 @@
         <layout>copado__Compliance_Scan_Result__c-copado__Compliance Scan Result Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>copado__Compliance_Scan_Result__c-copado__Compliance Scan Result Layout</layout>
-        <recordType>copado__Compliance_Scan_Result__c.copado__Other</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>copado__Continuous_Integration_Permission__c-copado__Continuous Integration Permission Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -7388,11 +7384,6 @@
         <default>true</default>
         <recordType>Metric.Progress</recordType>
         <visible>true</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
-        <recordType>copado__Compliance_Scan_Result__c.copado__Other</recordType>
-        <visible>false</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
