@@ -2687,9 +2687,6 @@
         <layout>WorkPerformanceCycle-Performance Cycle Layout - Winter %2716</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>copado__Deployment_Job__c-copado__Deployment Job Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>copado__Deployment_Task__c-copado__Deployment Task Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
