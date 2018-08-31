@@ -5730,10 +5730,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>copado__User_Story__c-copado__User Story Layout</layout>
-        <recordType>copado__User_Story__c.copado__Bug</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>copado__User_Story__c-copado__User Story Layout</layout>
         <recordType>copado__User_Story__c.copado__Investigation</recordType>
     </layoutAssignments>
     <layoutAssignments>
@@ -7376,11 +7372,6 @@
         <default>true</default>
         <recordType>Metric.Progress</recordType>
         <visible>true</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
-        <recordType>copado__User_Story__c.copado__Bug</recordType>
-        <visible>false</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
