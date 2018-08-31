@@ -2687,9 +2687,6 @@
         <layout>WorkPerformanceCycle-Performance Cycle Layout - Winter %2716</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>copado__Kanban_Board__c-copado__Kanban Board Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>copado__OrgDiff__c-copado__OrgDiff Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
