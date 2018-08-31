@@ -3971,10 +3971,6 @@
         <visible>true</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
-        <tab>copado__Getting_Started</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>copado__Git_Backup__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
