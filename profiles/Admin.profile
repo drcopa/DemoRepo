@@ -2687,9 +2687,6 @@
         <layout>WorkPerformanceCycle-Performance Cycle Layout - Winter %2716</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>copado__Static_Code_Analysis_Settings__c-copado__Static Code Analysis Settings Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>copado__Step__c-copado__Step Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
