@@ -3971,10 +3971,6 @@
         <visible>true</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
-        <tab>copado__Copado_License_Manager</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>copado__Copado_Notification__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
