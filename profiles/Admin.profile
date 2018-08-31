@@ -5728,10 +5728,6 @@
     <layoutAssignments>
         <layout>copado__User_Story__c-copado__User Story Layout</layout>
     </layoutAssignments>
-    <layoutAssignments>
-        <layout>copado__User_Story__c-copado__User Story Layout</layout>
-        <recordType>copado__User_Story__c.copado__User_Story</recordType>
-    </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
@@ -7368,11 +7364,6 @@
         <default>true</default>
         <recordType>Metric.Progress</recordType>
         <visible>true</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
-        <recordType>copado__User_Story__c.copado__User_Story</recordType>
-        <visible>false</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
         <tab>copado__Account_Summary</tab>
