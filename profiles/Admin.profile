@@ -2687,9 +2687,6 @@
         <layout>WorkPerformanceCycle-Performance Cycle Layout - Winter %2716</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>copado__Selenium_Locator_Reference__c-copado__Selenium Locator Reference Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>copado__Selenium_Locator__c-copado__Selenium Locator Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
