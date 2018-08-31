@@ -2687,9 +2687,6 @@
         <layout>WorkPerformanceCycle-Performance Cycle Layout - Winter %2716</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>copado__External_CI_Job__c-copado__External CI Job Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>copado__External_CI_Setting__c-copado__External CI Setting Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
