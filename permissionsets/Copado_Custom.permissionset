@@ -52,10 +52,6 @@
         <apexClass>AccountOperations</apexClass>
         <enabled>true</enabled>
     </classAccesses>
-    <classAccesses>
-        <apexClass>WrapperExampleController</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
     <hasActivationRequired>true</hasActivationRequired>
     <label>Copado Custom</label>
     <objectPermissions>
