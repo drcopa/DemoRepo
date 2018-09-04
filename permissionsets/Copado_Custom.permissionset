@@ -72,7 +72,7 @@
         <apexClass>WrapperExampleController</apexClass>
         <enabled>true</enabled>
     </classAccesses>
-    <hasActivationRequired>false</hasActivationRequired>
+    <hasActivationRequired>true</hasActivationRequired>
     <label>Copado Custom</label>
     <objectPermissions>
         <allowCreate>true</allowCreate>
@@ -105,4 +105,8 @@
         <apexPage>HelloSalesforce</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
+    <tabSettings>
+        <tab>standard-Dashboard</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
 </PermissionSet>
