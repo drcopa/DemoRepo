@@ -143,6 +143,15 @@
         <object>Solution</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>WorkCoaching</object>
+        <viewAllRecords>false</viewAllRecords>
+    </objectPermissions>
     <pageAccesses>
         <apexPage>HelloSalesforce</apexPage>
         <enabled>true</enabled>
@@ -155,30 +164,6 @@
         <tab>standard-Solution</tab>
         <visibility>Visible</visibility>
     </tabSettings>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>EditCaseComments</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ManageBusinessHourHolidays</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ManageCallCenters</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ManageCases</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>SolutionImport</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>TransferAnyCase</name>
-    </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
         <name>ViewRoles</name>
